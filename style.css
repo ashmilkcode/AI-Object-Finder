@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+
+.form-group
+{
+    width: 100%;
+    background-color:rgb(127, 180, 233);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:ghostwhite;
+    font-size: 10px;
+}
+
+.heading
+{
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#label
+{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+canvas
+{
+    box-shadow: dodgerblue;
+    border-radius: 10px;
+}
